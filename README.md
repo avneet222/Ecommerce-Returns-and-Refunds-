@@ -47,6 +47,8 @@ Root-cause page, intentionally without a Top 10 Returned Products visual.
 
 -> Slicers: Date Range • Category • Sales Channel • Return Reason • Reset Filters
 
+<img width="539" height="337" alt="Screenshot 2026-08-13 190211" src="https://github.com/user-attachments/assets/ec809907-709c-41be-b8e3-4e4d8a899b38" />
+
 # KPI Glossary
 
 <img width="886" height="183" alt="Screenshot 2026-08-14 131822" src="https://github.com/user-attachments/assets/dff5aa89-ca0c-4386-aa5d-5308f2082ea7" />
